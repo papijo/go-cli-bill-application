@@ -64,11 +64,11 @@ Preserve your bill details for future reference by saving them to a text file. T
 
 ## Contributing
 
-We welcome contributions to enhance and extend the functionality of the Go CLI Bill Management Application. If you have ideas for improvements, additional features, or bug fixes, please feel free to contribute by opening issues or submitting pull requests on the project's [GitHub repository](https://github.com/your/repository).
+We welcome contributions to enhance and extend the functionality of the Go CLI Bill Management Application. If you have ideas for improvements, additional features, or bug fixes, please feel free to contribute by opening issues or submitting pull requests on the project's [GitHub repository](https://github.com/papijo/go-cli-bill-application).
 
 ## License
 
-The Go CLI Bill Management Application is licensed under the MIT License. You can find the complete license terms in the [LICENSE](LICENSE) file.
+The Go CLI Bill Management Application is licensed under the MIT License.
 
 ---
 
